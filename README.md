@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Boris Bobocký
 - 👀 I’m interested in all kinds of sports, board games and plants
-- 🌱 I’m currently studying on Faculty of information technologi VUT Brno
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying on Faculty of information technologies on Masaryk University
 - 📫 How to reach me? Email me to boris.bobocky@gmail.com 
 
 <!---
